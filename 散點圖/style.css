@@ -1,0 +1,14 @@
+svg{
+    border: 1px solid #656565;
+    background-color: #656565;
+}
+
+.axis .domain{
+    stroke: 'b';
+}
+
+.x line{
+    stroke: 'b';
+    stroke-width: 0.5;
+    stroke-dasharray: 4,2;
+}
